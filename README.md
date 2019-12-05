@@ -8,7 +8,7 @@ This Widget is customizable (more in the future) with a great design.
 
 ## Screenshots
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss2.png" height="300em" />
+<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss3.png" height="300em" />
 
 ## Installation
 
