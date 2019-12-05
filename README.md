@@ -50,6 +50,7 @@ PageViewModel(
   image: Center(child: Image.asset("res/images/logo.png", height: 175.0)),
   decoration: const PageDecoration(
     pageColor: Colors.blue,
+    pageBackgroudColor: Colors.white,
   ),
 )
 ```
