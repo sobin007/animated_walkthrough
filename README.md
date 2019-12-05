@@ -12,7 +12,7 @@ This Widget is customizable (more in the future) with a great design.
 
 ## Installation
 
-You just need to add `introduction_screen` as a [dependency in your pubspec.yaml file](https://flutter.io/using-packages/).
+You just need to add `animated_walkthrough` as a [dependency in your pubspec.yaml file](https://flutter.io/using-packages/).
 
 ```yaml
 dependencies:
