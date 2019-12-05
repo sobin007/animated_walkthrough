@@ -16,7 +16,7 @@ You just need to add `introduction_screen` as a [dependency in your pubspec.yaml
 
 ```yaml
 dependencies:
-  animated_walkthrough: ^1.0.7
+  animated_walkthrough: ^0.0.1
 ```
 
 ## Example
