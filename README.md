@@ -8,11 +8,9 @@ This Widget is customizable (more in the future) with a great design.
 
 ## Screenshots
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss3.png" height="300em" />
-
-![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss1.png)
-![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss2.png)
-![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss3.png)
+![DemoPage 1](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss1.png)
+![DemoPage 2](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss2.png)
+![DemoPage 3](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss3.png)
 
 ## Installation
 
