@@ -10,6 +10,8 @@ This Widget is customizable (more in the future) with a great design.
 
 <img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss3.png" height="300em" />
 
+![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss1.png)
+
 ## Installation
 
 You just need to add `animated_walkthrough` as a [dependency in your pubspec.yaml file](https://flutter.io/using-packages/).
