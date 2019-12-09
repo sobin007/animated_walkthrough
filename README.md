@@ -10,7 +10,9 @@ This Widget is customizable (more in the future) with a great design.
 
 <img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss3.png" height="300em" />
 
-![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss1.png,https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss2.png,https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss3.png)
+![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss1.png)
+![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss2.png)
+![Demo](https://raw.githubusercontent.com/sobin007/animated_walkthrough/master/ss3.png)
 
 ## Installation
 
